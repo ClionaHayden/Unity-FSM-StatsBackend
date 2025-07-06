@@ -51,3 +51,6 @@ This project is a Unity-based FSM (Finite State Machine) AI prototype extended w
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact
+Created by Cliona Hayden. Feel free to reach out for questions or collaborations!
